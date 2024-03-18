@@ -1,0 +1,5 @@
+sn,name,age,add,phone
+1.Ram,34,Kathmandu,9800000000
+2.Shyam,56,BKT,9877000000
+3.Hari,34,KTM,9800000
+4.Sabin,90,BIR,900000000
